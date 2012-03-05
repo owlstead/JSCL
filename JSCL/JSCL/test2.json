@@ -1,0 +1,10 @@
+{"v":1,
+"iter":1000,
+"mode":"ccm",
+"cipher":"aes",
+"iv":"QTpg36EIwSg0/GwsWL6N3w",
+"ks":256,
+"ts":128,
+"adata":"test%20test",
+"salt":"HBBOJV7jek0",
+"ct":"drQliJ6fWId+hdXdySIppPOexPI"}

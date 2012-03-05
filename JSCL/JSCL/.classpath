@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="/home/maartenb/Development/java/lib/jackson-1.9.5/jackson-all-1.9.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://jackson.codehaus.org/1.9.4/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/maartenb/Development/java/lib/crypto-146/jars/bctest-jdk16-146.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/maartenb/Development/java/lib/crypto-146/jars/bcprov-jdk16-146.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
